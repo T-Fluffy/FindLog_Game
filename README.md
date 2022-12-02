@@ -7,7 +7,8 @@ Game for Divalto pour la nuit d'info 2022
 "EPI_Abtal al digital school"
  
 * c'est juste un jeux de recherche d'un logo dans une arrire plan réalisé sur le moteur de jeux video "Unity3D"
-* Créé principalement Moi-même (T-Fluffy) en collaboration avec "Fradi Iheb". Have Fun :p
+* Créé principalement par Moi-même (T-Fluffy) en collaboration avec "Fradi Iheb". 
+* Have Fun :p
 <img src=https://www.icegif.com/wp-content/uploads/video-games-icegif-1.gif />
  
 cliquez sur cet icône pour ouvrir le jeu :video_game:
